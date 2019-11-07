@@ -1,0 +1,21 @@
+import React from 'react';
+import {Link} from 'react-router-dom';
+
+export default function Header(){
+    //return后边连着得有东西，不能直接换行
+    return (
+        <div className='header'>
+            <header>
+                <img src="https://static2.cnodejs.org/public/images/cnodejs_light.svg" />
+                <div style={{float:'right'}}>
+                    <Link to='/home'>首页</Link>
+                    <Link to='/start'>新手入门</Link>
+                    <Link to='/api'>API</Link>
+                    <Link to='/about'>关于</Link>
+                    <Link>注册</Link>
+                    <Link to='/login'>登陆</Link>
+                </div>
+            </header>
+        </div>
+    )
+}

@@ -1,0 +1,79 @@
+/* Todoinput */
+#ToDo{
+    margin-left: 500px;
+    width: 500px;
+    padding: 0 10px;
+    height: 50px; 
+} 
+#ToDoList{
+    padding-top: 10px;
+    float: left;
+    color: gray;
+    font-size: 25px;
+    font-family: "微软雅黑";
+}
+#Input{
+    float: right;
+    width: 50%;
+    height: 24px;
+    margin-top: 12px;
+    border-radius: 5px;
+    box-shadow: 0 1px 0 rgba(255,255,255,0.24), 0 1px 6px rgba(0,0,0,0.45) inset;
+}
+
+h2{
+    margin-left: 500px;
+    position: relative;
+    display: block;
+    font-weight: bold;
+}
+span{
+    position: absolute;
+    top: 2px;
+    right: 150px;
+    padding: 0 5px;
+    height: 20px;
+    border-radius: 20px;
+    background: #E6E6FA;
+    line-height: 22px;
+    text-align: center;
+    color: #666;
+    font-size: 14px;
+}
+ol,ul{
+    margin-left: 500px;
+    list-style:none;
+    padding: 0;
+    cursor: move;
+}
+li{
+    height: 32px;
+    line-height: 32px;
+    background: #fff;
+    position: relative;
+    margin-bottom: 10px;
+    padding: 0 45px;
+    border-radius: 3px;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.07);
+}
+li input{
+    position: absolute;
+    top: 2px;
+    left: 10px;
+    width: 20px;
+    height: 20px;
+}
+li a{
+    position: absolute;
+    top: 2px;
+    right: 145px;
+    display: inline-block;
+    width: 14px;
+    height: 13px;
+    border-radius: 14px;
+    border: 6px double #FFF;
+    background: #CCC;
+    line-height: 14px;
+    text-align: center;
+    font-size: 14px;
+}
