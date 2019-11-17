@@ -1,0 +1,111 @@
+/* 在CSS文件中引入antd的css文件 */
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: #fff;
+}
+.carousel{
+    width: 100%;
+    /* position: relative; */
+    z-index: 1;
+}
+.am-wingblank.am-wingblank-lg{
+    margin: 0;
+}
+.mid{
+    width: 100%;
+    height: 9em;
+    background-color: #eee;
+}
+.pic1{
+    width: 8em;
+    padding-top: 1em;
+    padding-left: 1em;
+}
+
+.hot{
+    height: 2em;
+    margin-top: 1em;
+}
+.bar{
+    width: 0.35em;
+    height: 1.8em;
+    background-color: #3fcccb;
+    float: left;
+}
+.hot-text{
+    padding-top: 0.2em;
+    padding-left: 0.5em;
+    font-size: 1.2em;
+    float: left;
+}
+
+.eng img{
+    /* position: absolute; */
+    width: 100%;
+    height: 15em;
+    padding-top: 1em;
+}.eng-text{
+    position: relative;
+    color: #fff;
+}
+
+/* .idea1{
+    
+} */
+.idea1 img{
+    float: left;
+    width: 12em;
+    height: 15em;
+    padding-left: 1em;
+    padding-top: 1em;
+}
+
+.top{
+    position: relative;
+}
+.search{
+    /* position: absolute; */
+    /* float: left; */
+    z-index: 99999;
+}
+
+.mid2{
+    height: 12em;
+}
+.zhuo{
+    height: 6em;
+    width: 3em;
+    margin-left: 1.5em;
+    padding-top: 1em;
+    float: left;
+}
+.zhuo img{
+    height: 3em;
+}
+.zhuo p{
+    text-align: center;
+}
+
+.mid3{
+    height: 12em;
+    background-color: #eee;
+}
+.mid3 img{
+    width: 12em;
+    padding-left: 1em;
+    padding-top: 1em;
+}
+.mid3 p{
+    padding-left: 1em;
+    padding-top: 0.5em;
+    color: gray;
+}
+.mid3 p span{
+    color: #000;
+}
+.mid4{
+    float: left;
+}
