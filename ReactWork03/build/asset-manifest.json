@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "static/css/main.165a25c5.chunk.css",
+    "main.js": "static/js/main.96e87703.chunk.js",
+    "main.js.map": "static/js/main.96e87703.chunk.js.map",
+    "runtime-main.js": "static/js/runtime-main.ab444cb4.js",
+    "runtime-main.js.map": "static/js/runtime-main.ab444cb4.js.map",
+    "static/css/2.6f60e7f3.chunk.css": "static/css/2.6f60e7f3.chunk.css",
+    "static/js/2.1b60bdef.chunk.js": "static/js/2.1b60bdef.chunk.js",
+    "static/js/2.1b60bdef.chunk.js.map": "static/js/2.1b60bdef.chunk.js.map",
+    "index.html": "index.html",
+    "precache-manifest.0fdf8090036eb911c7ae71dd6d001f43.js": "precache-manifest.0fdf8090036eb911c7ae71dd6d001f43.js",
+    "service-worker.js": "service-worker.js",
+    "static/css/2.6f60e7f3.chunk.css.map": "static/css/2.6f60e7f3.chunk.css.map",
+    "static/css/main.165a25c5.chunk.css.map": "static/css/main.165a25c5.chunk.css.map",
+    "static/media/1.png": "static/media/1.b9a2b350.png",
+    "static/media/2.png": "static/media/2.c1cd832b.png",
+    "static/media/3.png": "static/media/3.965ea31e.png",
+    "static/media/4.png": "static/media/4.e195e215.png",
+    "static/media/5.png": "static/media/5.a88a6d76.png",
+    "static/media/6.png": "static/media/6.6a7d2ce0.png",
+    "static/media/复习.png": "static/media/复习.ae75b20c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab444cb4.js",
+    "static/css/2.6f60e7f3.chunk.css",
+    "static/js/2.1b60bdef.chunk.js",
+    "static/css/main.165a25c5.chunk.css",
+    "static/js/main.96e87703.chunk.js"
+  ]
+}
